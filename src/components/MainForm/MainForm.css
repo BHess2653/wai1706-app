@@ -1,0 +1,23 @@
+.container {
+  width: 900px;
+  margin-top: 100px;
+  padding-top: 50px;
+  border-color: #666;
+  background-color: hsla(0, 0%, 0%, 1);
+  background-image: url("../../imgs/pow.png");
+}
+
+.Main-Form {
+  text-align: end;
+  padding-bottom: 5px;
+}
+
+.btn-success {
+  margin-right: 5px;
+}
+
+input {
+  margin-right: 10px;
+  width: 320px;
+  height: 35px;
+}
